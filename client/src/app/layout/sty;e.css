@@ -1,0 +1,18 @@
+body {
+  margin-left: 10;
+  padding: 10px;
+  background-color: #eaeaea;
+}
+.search-bar {
+  width: 50% !important;
+}
+.pointedLabel {
+  background-color: rgb(150, 211, 9) !important;
+}
+.predictImageBtn {
+  background-color: teal !important;
+  color: thistle !important;
+}
+.item-predict {
+  border-radius: 220rem !important;
+}
